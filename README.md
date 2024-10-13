@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# NewsNavigator
+NewsExplorer is a React-based web application that allows users to search and explore news from various topics in real-time. The platform offers a seamless experience for discovering news articles on a wide range of subjects, helping users stay informed and up-to-date with the latest developments across the globe
+>>>>>>> dd7f9f6fc3661a1d2c7e76732c94fe1e529abccb
